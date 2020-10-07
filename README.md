@@ -1,5 +1,10 @@
 # Tarea 3 Curso CC7515-1 Computación en GPU
 
+<p float="left">
+  <img src="https://raw.githubusercontent.com/Julioalbornozv/CC7515-Fractal-Viewer/master/img/img_1.png" width=450/>
+  <img src="https://raw.githubusercontent.com/Julioalbornozv/CC7515-Fractal-Viewer/master/img/img_2.png" width=454/>
+</p>
+
 ## Compilación
 
 El proyecto es compilado a través del comando `make install`. Este programa fue compilado con g++ utilizando las librerias glew32, glfw y glm.
