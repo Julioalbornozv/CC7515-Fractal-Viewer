@@ -1,8 +1,8 @@
 # Tarea 3 Curso CC7515-1 Computación en GPU
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Julioalbornozv/CC7515-Fractal-Viewer/master/img/img_1.png" width=450/>
-  <img src="https://raw.githubusercontent.com/Julioalbornozv/CC7515-Fractal-Viewer/master/img/img_2.png" width=454/>
+  <img src="https://raw.githubusercontent.com/Julioalbornozv/CC7515-Fractal-Viewer/master/img/img_1.png" width=360/>
+  <img src="https://raw.githubusercontent.com/Julioalbornozv/CC7515-Fractal-Viewer/master/img/img_2.png" width=364/>
 </p>
 
 ## Compilación
