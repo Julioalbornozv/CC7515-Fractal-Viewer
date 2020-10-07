@@ -1,10 +1,10 @@
-#Tarea 3 Curso CC7515-1 Computación en GPU
+# Tarea 3 Curso CC7515-1 Computación en GPU
 
-##Compilación
+## Compilación
 
 El proyecto es compilado a través del comando `make install`. Este programa fue compilado con g++ utilizando las librerias glew32, glfw y glm.
 
-##Utilizacion
+## Utilizacion
 Ejecutando el programa `fractal_viewer.exe`, se listaran diferentes sets de julia para renderizar, seleccione una de ellas esribiendo el numero de la entrada y apretar `Enter`.
 
 El visualizador permite la modificacion de diferentes parametros (cte Julia, R, Nro iteraciones, colores). Una de estos parametros aparecera en consola con su valor actual, presionando las flechas derecha e izquierda se puede modificar el valor mostrado en consola, mientras que apretando los botones `q` o `e` se cambia el parametro a modificar.
